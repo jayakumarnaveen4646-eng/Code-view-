@@ -1,0 +1,6 @@
+{
+  "name": "CodeMaster",
+  "description": "Learn and master Python, Java, JavaScript, and HTML with code explanations, interactive playground, quizzes, and personal AI tutor Codey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
